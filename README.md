@@ -21,13 +21,6 @@ Here are the skills I have acquired in **QA Automation/Manual Testing**:
 
 During my "FastTrackIT" course, I successfully ✅ manually tested, created, and executed test scenarios for an e-Commerce site [Link](https://ecommerce-playground.lambdatest.io/) using Selenium WebDriver in Java, further solidifying my theorethical and practical testing abilities.
 
-## My Motivation 🎯
-
-I am committed to invest my time and energy into my professional career 💼 to build a solid foundation and achieve my goals. 
-I aspire to become a **Web Developer** after gaining experience in the IT world.
-
----
-
 Feel free to connect with me to discuss opportunities or share insights! 
 
 [LinkedIn](www.linkedin.com/in/dobosmihaiqa) | [Email](mihai21dobos@gmail.com)
