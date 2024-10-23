@@ -1,8 +1,10 @@
 ### Hello!👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Mihai, and I'm an Entry-level QA Tester Certified interested in starting a career in IT and provide quality services for my future employer!
+
+-    I graduated FastTrackIT - Software Test Analyst course
+- 🔭 I’m currently searching for a job in QA Automation Testing using Selenium WebDriver in Java.
+- 🌱 I’m willingness to learn new tehnologies and be part of a company where my role makes a difference.
 
 <!--
 **Mihai212/mihai212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
