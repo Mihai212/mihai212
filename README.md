@@ -23,7 +23,7 @@ During my "FastTrackIT" course, I successfully ✅ manually tested, created, and
 
 Feel free to connect with me to discuss opportunities or share insights! 
 
-[LinkedIn](www.linkedin.com/in/dobosmihaiqa) | [Email](mihai21dobos@gmail.com)
+[LinkedIn](www.linkedin.com/in/dobosmihaiqa) | [Email](mihai21dobos@gmail.com) | [Facebook](https://www.facebook.com/mihai.dobos.7)
 
 
 <!--
