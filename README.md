@@ -1,4 +1,4 @@
-![Logo](https://ibb.co/Js5wkSn)
+![Logo](https://github.com/Mihai212/mihai212/blob/main/Banner%20QA.png)
 <h1 align="center"> Hello👋, I'm Mihai Doboș</h1>
 <h3 align="center"> An entry-level Quality Assurance Tester</h1>
 
