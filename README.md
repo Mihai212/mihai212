@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am a **growth Entry-level QA Software Tester** with a strong desire to enhance my knowledge and skills in order to deliver high-quality services to my future employer.
+I am a **growth `Entry-level QA Software Tester`** with a strong desire to enhance my knowledge and skills in order to deliver high-quality services to my future employer.
 
 ## My Journey 🛤️
 
