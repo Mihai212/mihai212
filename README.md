@@ -6,7 +6,7 @@ I am a **growth `Entry-level QA Automation Software Tester`** with a strong desi
 
 My journey began with the [**"FastTrackIT - Software Test Analyst Certified Course"**](https://fasttrackit.org/), where I gained hands-on experience in both **Manual** and **Automated Software Testing**.
 
-During my "FastTrackIT" course, I successfully ✅ manually tested, created, and executed test scenarios for an [e-Commerce](https://ecommerce-playground.lambdatest.io/) site using Selenium WebDriver in Java, further solidifying my theorethical and practical testing abilities.
+During my "FastTrackIT" course, I successfully ✅ manually tested, created, and executed test scenarios for an [e-Commerce](https://ecommerce-playground.lambdatest.io/) site from scratch using Selenium WebDriver in Java, further solidifying my theorethical and practical testing abilities.
 I actually started a [**"SQL Complete Mastery Course from Code With Mosh"**](https://codewithmosh.com/p/complete-sql-mastery) which I hope it will help me to learn databases to improve my knowledge.
 
 Feel free to connect with me to discuss opportunities or share insights! 
