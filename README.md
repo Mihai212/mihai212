@@ -15,7 +15,7 @@ Feel free to connect with me to discuss opportunities or share insights!
 
 ## 🌐 Socials:
 
- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mihai21dobos@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dobosmihaiqa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mihai.dobos.7)
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihai21.dobos@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dobosmihaiqa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mihai.dobos.7)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mihai212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
