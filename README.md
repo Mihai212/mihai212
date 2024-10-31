@@ -42,25 +42,21 @@ Feel free to connect with me to discuss opportunities or share insights!
 
 <details>
  <summary><h3> Mihai's Description </h3></summary>
- I am a growth 📈 motivated entry-level Quality Assurance Software Tester, with a strong desire to enhance my knowledge and skills to deliver a high quality service to my future employer.
+I am a growth 📈-motivated entry-level Quality Assurance Software Tester, with a strong desire to enhance my knowledge and skills to deliver high-quality service to my future employer.
+My story began with the "FastTrackIT" Certified Course in September 2023, where I gained 🌱 hands-on experience in both manual and automated software testing. I started a "SQL Complete Mastery Course from Code With Mosh" in October 2024, which I hope will help me learn about databases to improve my knowledge.
+ 
+ Skills 💡 acquired in QA Automation/Manual Testing:
 
-My story began with the "FastTrackIT" Certified Course in September 2023, where I gained🌱 hands-on experience in both manual and automated software testing.
-I actually started in Octomber 2024 a "SQL Complete Mastery Course from Code With Mosh" which I hope it will help me to learn databases to improve my knowledge.
+1. Java programming language ⚙️ <br>
+2. Selenium WebDriver <br>
+3. TestNG <br>
+4. Maven <br>
+5. Postman API <br>
+6. Object-Oriented Programming (OOP) <br>
+7. GitHub <br>
+8. Jira <br>
 
-Skills💡acquired in QA Automation/Manual Testing:
-
-1. Java programming language⚙️;
-2. Selenium WebDriver;
-3. TestNG;
-4. Maven;
-5. Postman API;
-6. Object-Oriented Programming (OOP);
-7. GitHub
-8. Jira
-
-Also, during my "FastTrackIT" course, I successfully ✅ manually tested, created and executed test scenarios for an 
-e-Commerce site using Selenium WebDriver in Java, further solidifying my practical testing abilities.
-
-My motivation is to continue to invest🔎 time and energy in my professional career💼 to build it up and touch my goals🎯.
-I aspire to be a Web Developer after some time of getting experience in IT world.
+Also, during my "FastTrackIT" course, I successfully ✅ manually tested, created, and executed test scenarios for an e-Commerce site using Selenium WebDriver in Java, further solidifying my practical testing abilities.
+My motivation is to continue to invest 🔎 time and energy in my professional career 💼 to build it up and achieve my goals 🎯. 
+I aspire to be a Web Developer after gaining experience in the IT world.
  
