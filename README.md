@@ -34,6 +34,9 @@ Feel free to connect with me to discuss opportunities or share insights!
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
+[![Java QA Automation | 1. Code View](https://i.ibb.co/NxRtzgM/Tumbnail-Code-View.png)](https://youtu.be/sjaOoUjgtrQ) 
+[![Java QA Automation | 2. Tests Running And Results](https://i.ibb.co/qkgFQhv/Tumbnail-Tests-Running-And-Results.png)](https://youtu.be/I1rXYuoQg3k)
+
 <!-- END YOUTUBE-CARDS -->
 
 <details>
