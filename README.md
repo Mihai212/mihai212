@@ -32,23 +32,15 @@ Feel free to connect with me to discuss opportunities or share insights!
 
 #
 
-### 🌐Socials:
+<!-- BEGIN YOUTUBE-CARDS -->
 
- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihai21.dobos@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dobosmihaiqa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mihai.dobos.7)
-
-#
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mihai212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mihai212&icon=0&color=13)](https://visitcount.itsvg.in)
+<!-- END YOUTUBE-CARDS -->
 
 <details>
  <summary><h3> Mihai's Description </h3></summary>
  I am a growth 📈 motivated entry-level Quality Assurance Software Tester, with a strong desire to enhance my knowledge and skills to deliver a high quality service to my future employer.
 
-My journey🛤️ began with the "FastTrackIT" Certified Course in September 2023, where I gained hands-on experience in both manual and automated software testing.
+My story began with the "FastTrackIT" Certified Course in September 2023, where I gained🌱 hands-on experience in both manual and automated software testing.
 I actually started in Octomber 2024 a "SQL Complete Mastery Course from Code With Mosh" which I hope it will help me to learn databases to improve my knowledge.
 
 Skills💡acquired in QA Automation/Manual Testing:
@@ -68,21 +60,3 @@ e-Commerce site using Selenium WebDriver in Java, further solidifying my practic
 My motivation is to continue to invest🔎 time and energy in my professional career💼 to build it up and touch my goals🎯.
 I aspire to be a Web Developer after some time of getting experience in IT world.
  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--
-**Mihai212/mihai212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
