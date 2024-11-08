@@ -10,7 +10,7 @@
 
 ### My Journey 🛤️
 
-My journey began with the [**"FastTrackIT - Software Test Analyst Certified Course"**](https://fasttrackit.org/), where I gained hands-on experience in both **Manual** and **Automated Software Testing**.
+My journey began with the [**"FastTrackIT - Software Test Analyst Certified® Course"**](https://fasttrackit.org/), where I gained hands-on experience in both **Manual** and **Automated Software Testing**.
 
 During my "FastTrackIT" course, I successfully ✅ manually tested, created, and executed test scenarios for an [**e-Commerce**](https://ecommerce-playground.lambdatest.io/) site from scratch using Selenium WebDriver in Java, further solidifying my theoretical and practical testing abilities.
 
