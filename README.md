@@ -3,7 +3,7 @@
 <h3 align="center"> An entry-level Quality Assurance Tester</h1>
 
 •🕵🏻 I’m currently searching for a job! <br>
-•💡 I’m learning more about software testing and development. <br>
+•💡 I’m open to volunteering for 3 months. <br>
 •🎯 My goal is to enhance my knowledge to deliver high-quality services to my future employer.
 
 <img align="right" alt="Testing" width="400" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
