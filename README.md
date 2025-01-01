@@ -3,7 +3,7 @@
 <h3 align="center"> An entry-level Quality Assurance Tester</h1>
 
 •🕵🏻 I’m currently searching for a job in QA Testing! <br>
-•🎯 My goal is to enhance my knowledge to deliver high-quality services to my future employer.
+•🎯 My goal is to enhance my knowledge to deliver high-quality services to my future employer. <br>
 
 <img align="right" alt="Testing" width="400" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
 
